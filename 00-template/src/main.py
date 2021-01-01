@@ -1,0 +1,1 @@
+print("halo dunia tipu tipu")
